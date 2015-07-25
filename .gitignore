@@ -1,0 +1,6 @@
+/target/
+/.settings/
+/.classpath
+/.project
+/logs/
+/memory-overhead-when-using-multiverse.iml
